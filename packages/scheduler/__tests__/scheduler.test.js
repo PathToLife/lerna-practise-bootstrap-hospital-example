@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const scheduler = require('..');
+const scheduler = require('..')
 
 describe('scheduler', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})

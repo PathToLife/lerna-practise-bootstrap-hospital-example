@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const patient = require('..');
+const patient = require('..')
 
 describe('patient', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})
