@@ -2,7 +2,7 @@
 
 A monorepo for practising with learna and Typescript
 
-Of special focus is making sure Code editor intellisense works and can detect Typescript typings in the integration package.
+Of special focus in this practise repo: Code editor intellisense support and can detect Typescript typings in the integration package.
 
 # Future
 Lerna seems to have changed owernship to `nx`, with some reports of it being deprecated.
